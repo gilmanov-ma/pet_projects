@@ -11,3 +11,8 @@
 
 - Описание проекта: Требуется провести анализ изменения стоимости лечения в 2022г. относительно 2021г. в медицинской клинике и определить ключевые драйверы изменения.<br>
 - Использованные библиотеки: pandas, scipy, seaborn<br>
+
+### youtube analytics - <a href='https://github.com/gilmanov-ma/pet_projects/tree/main/youtube%20analytics'> Автоматическая выгрузка метрик Youtube канала </a> <br>
+
+- Описание проекта: Скрипт для автоматической аутентификации владельца канала, выгрузки необходимых метрик в базу данных postgresql или в google sheets.<br>
+- Использованные библиотеки: googleapiclient.discovery, google.oauth2, gspread, psycopg2<br>
