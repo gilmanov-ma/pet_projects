@@ -7,8 +7,7 @@
 - Использованные библиотеки: pandas, beautifulsoup, numpy<br>
 
 
-### dashboard linkedin - <a href='https://github.com/gilmanov-ma/pet_projects/tree/main/dashboard%20linkedin'> Дашборд вакансий в LinkedIn </a> <br>
+### prices in clinic - <a href='https://github.com/gilmanov-ma/pet_projects/tree/main/dashboard%20linkedin'> Анализ причин изменения стоимости лечения в клининке 2022 году </a> <br>
 
- <a href='https://public.tableau.com/views/linkedin_16633158968230/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link'> Анализ причин изменения стоимости лечения в клининке 2022 году   </a> <br>
 - Описание проекта: Требуется провести анализ изменения стоимости лечения в 2022г. относительно 2021г. в медицинской клинике и определить ключевые драйверы изменения.<br>
 - Использованные библиотеки: pandas, scipy, seaborn<br>
